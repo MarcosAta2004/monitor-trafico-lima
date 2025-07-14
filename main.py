@@ -16,6 +16,11 @@ RUTAS = [
         "nombre": "Panamericana Sur",
         "origen": "Puente Atocongo, San Juan de Miraflores, Peru",
         "destino": "Puente Benavides, Santiago de Surco, Peru"
+    },
+    { # <-- La nueva ruta que agregamos
+        "nombre": "Ruta a UCV Ate",
+        "origen": "Santa Anita, Peru",
+        "destino": "Universidad Cesar Vallejo, Ate, Peru"
     }
 ]
 
