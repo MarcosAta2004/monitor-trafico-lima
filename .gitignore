@@ -1,3 +1,6 @@
+# Archivo de configuración con claves secretas
+config.py
+
 # Entornos virtuales
 /venv/
 /.venv/
@@ -5,3 +8,4 @@
 # Archivos de Python temporales
 __pycache__/
 *.pyc
+
